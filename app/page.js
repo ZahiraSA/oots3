@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <main className="relative">
       {/* Dekorasi atas kiri */}
-      <Image src="/images/decor-bp.svg" alt="Description" width={400} height={400} className="absolute" />
+      <Image src="/images/decor-pg.svg" alt="Description" width={400} height={400} className="absolute" />
 
       {/* Bagian konten pertama */}
       <Section1 />
@@ -21,7 +21,7 @@ export default function Home() {
 
       {/* Dekorasi kiri tengah (kuning) */}
       <Image
-        src="/images/decor-yw.svg"
+        src="/images/WhatsApp Image 2025-10-22 at 20.24.40_a1f2b84d-Photoroom.png"
         alt="Description"
         width={400}
         height={400}

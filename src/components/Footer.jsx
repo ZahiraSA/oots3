@@ -1,7 +1,7 @@
 export default function Footer() {
   return (
     <footer className="relative flex flex-col items-center justify-center gap-3 border-t border-black/20 bg-white/10 py-10 backdrop-blur-md">
-      <p className="text-sm text-black/70">
+      <p className="text-sm text-white/70">
         © {new Date().getFullYear()} Aisyirin — Built with ❤️ using Next.js & Tailwind CSS! Let's try it!
       </p>
 

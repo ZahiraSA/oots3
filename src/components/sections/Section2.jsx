@@ -3,7 +3,7 @@ export default function Section2() {
     <section id="about" className="min-h-[70vh]">
       {/* text about */}
       <div className="mb-12 flex flex-col gap-2">
-        <p className="text-center text-xl font-semibold">About me</p>
+        <p className="text-center text-xl font-press">About me</p>
         <div className="flex items-center justify-center gap-3">
           <div className="h-1 w-15 border-b-2 border-black" />
           <div className="h-3 w-3 rotate-45 bg-black" />
@@ -14,8 +14,8 @@ export default function Section2() {
       {/* biografi singkat */}
       <div className="flex justify-center">
         <div className="flex w-1/2 flex-col items-center justify-center text-center">
-          <p className="text-xl font-semibold text-[#00b4d8]">I'm a Developer</p>
-          <p className="mb-3 text-2xl font-bold capitalize">i can build amazing web applications.</p>
+          <p className="text-xl font-press text-[#00b4d8]">I'm a Developer</p>
+          <p className="mb-3 text-1xl font-press capitalize">i can build amazing web applications.</p>
           <p className="italic">
             Hello semuanya, Aku Zahira, seorang developer yang berdedikasi untuk menciptakan solusi digital yang inovatif.
             memiliki pengalaman pada bidang web development membuat saya memiliki skill untuk mengembangkan aplikasi web
