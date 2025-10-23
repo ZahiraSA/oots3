@@ -6,11 +6,10 @@ export default function Home() {
     <main className="relative">
       {/* Dekorasi atas kiri */}
       <Image src="/images/decor-pg.svg" alt="Description" width={400} height={400} className="absolute" />
-
       {/* Bagian konten pertama */}
       <Section1 />
 
-      {/* Dekorasi kanan tengah (ungu/pink) */}
+      {/* Dekorasi 1 */}
       <Image
         src="/images/decor-pg.svg"
         alt="Description"
@@ -19,9 +18,27 @@ export default function Home() {
         className="absolute right-0 bottom-1/2 rotate-90"
       />
 
-      {/* Dekorasi kiri tengah (kuning) */}
+      {/* Dekorasi mahkota */}
+      <Image
+        src="/images/mahkota.png"
+        alt="Description"
+        width={300}
+        height={300}
+        className="absolute bottom-1/2 left-16 translate-y-6"
+      />
+
+      {/* Dekorasi 2 */}
       <Image
         src="/images/WhatsApp Image 2025-10-22 at 20.24.40_a1f2b84d-Photoroom.png"
+        alt="Description"
+        width={400}
+        height={400}
+        className="absolute bottom-1/2 left-0 translate-y-10"
+      />
+
+      {/* Dekorasi 3 */}
+      <Image
+        src="/images/decor-pg.svg"
         alt="Description"
         width={400}
         height={400}
@@ -31,7 +48,7 @@ export default function Home() {
       {/* Bagian konten kedua */}
       <Section2 />
 
-      {/* Dekorasi kanan bawah (biru/purple) */}
+      {/* Dekorasi 4 */}
       <Image
         src="/images/decor-bp.svg"
         alt="Description"

@@ -9,8 +9,7 @@ export default function Section3() {
 
         {/* Deskripsi singkat tentang isi bagian Stack */}
         <p className="max-w-md text-center text-sm text-white/90">
-          Teknologi yang saya gunakan untuk membangun proyek ini mulai dari framework frontend hingga tools pengembang.
-          Kamu bisa coba pelajari masing-masing untuk memahami workflow modern dalam web development.
+         The technologies I used to build this project range from front-end frameworks to developer tools. You can explore each of these to understand the modern workflow in web development.
         </p>
 
         {/* Daftar Frameworks dan Libraries */}
