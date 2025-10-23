@@ -11,11 +11,11 @@ export default function Home() {
 
       {/* Dekorasi 1 */}
       <Image
-        src="/images/decor-pg.svg"
+        src="/images/download-removebg-preview.png"
         alt="Description"
         width={400}
         height={400}
-        className="absolute right-0 bottom-1/2 rotate-90"
+        className="absolute right-0 bottom-1/2 rotate-0"
       />
 
       {/* Dekorasi mahkota */}
