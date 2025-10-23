@@ -29,7 +29,7 @@ export default function Home() {
 
       {/* Dekorasi 2 */}
       <Image
-        src="/images/WhatsApp Image 2025-10-22 at 20.24.40_a1f2b84d-Photoroom.png"
+        src="/images/zahira.png"
         alt="Description"
         width={400}
         height={400}
