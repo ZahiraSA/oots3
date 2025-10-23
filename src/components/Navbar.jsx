@@ -13,8 +13,7 @@ export default function Navbar() {
           <a
             key={item}
             href={`#${item.toLowerCase()}`}
-            className="relative flex cursor-pointer items-center after:absolute after:bottom-0 after:left-1/2 after:translate-x-[-50%] after:h-[2px] after:w-0 after:bg-[#FFEB00] after:transition-all after:duration-300 after:content-[''] hover:after:w-full"
-          >
+            className="relative flex cursor-pointer items-center after:absolute after:bottom-0 after:left-1/2 after:translate-x-[-50%] after:h-[2px] after:w-0 after:bg-[#FFEB00] after:transition-all after:duration-300 after:content-[''] hover:after:w-full">
             {item}
           </a>
         ))}
