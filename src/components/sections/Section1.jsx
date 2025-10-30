@@ -10,7 +10,7 @@ export default function Section1() {
         {/* Teks utama: PORTOFOLIO */}
         <div className="flex">
           {/* Kata pertama */}
-          <p className="cursor-default text-6xl font-press text-[#FFEB00]">PORTO</p>
+          <p className="cursor-default text-6xl font-press text-[#FFEB00]">PORTOO</p>
 
           {/* Kata kedua dengan efek outline */}
           <p
